@@ -30,9 +30,7 @@ while True:
     S = n.count(["a", "a", "a", "a"])
     S2 = n2.count(["a", "a", "a", "a"])
     S3 = n3.count(["a", "a", "a", "a"])
-    print(S3)
-    print(S)
-    print(S2)
+
 
     
     if S + S2 + S3 == 3 :
